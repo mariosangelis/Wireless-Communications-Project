@@ -1,0 +1,247 @@
+ *******************************************************************************************************************************************************************************************
+// Minstrel
+
+
+TIME DIFF IS 2
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]         
+HT20  LGI  3    C    MCS21   25      62   100.0     100.0      88.8       0     0 0            15   18       
+HT20  LGI  3  A      MCS22   26      55   109.8     109.8      91.5       5     0 0          4066   4638     
+HT20  LGI  3   B     MCS23   27      49   117.1     104.9      81.2       5    87 134       17533   20661 
+
+TIME DIFF IS 3
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]        
+HT20  LGI  3    C    MCS21   25      62   100.0     100.0      99.8       5     0 0            98   99       
+HT20  LGI  3   B     MCS22   26      55   109.8     102.5      84.2       5     0 0          6556   7538     
+HT20  LGI  3  A      MCS23   27      49   117.1     117.1      91.7       5    63 67        16892   20209    
+
+
+TIME DIFF IS 3
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]    
+HT20  LGI  3   B     MCS21   25      62    51.2      51.2      89.8       6    26 29          278   316      
+HT20  LGI  3    C    MCS22   26      55    53.7      51.2      86.6       6     0 0          3274   3797     
+HT20  LGI  3  A      MCS23   27      49    56.1      53.7      87.5       6    11 11        11898   13847  
+
+TIME DIFF IS 4
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]          
+HT20  LGI  3         MCS21   25      62    90.3      68.3      66.8       6     0 0           858   990      
+HT20  LGI  3   B     MCS22   26      55    97.6      83.0      75.7       5     0 0          5087   5799     
+HT20  LGI  3  A      MCS23   27      49   104.9     104.9      92.9       5    31 32        10341   12529  
+
+TIME DIFF IS 4
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]         
+HT20  LGI  3    C    MCS21   25      62    90.3      90.3      98.7       5     0 0            90   94       
+HT20  LGI  3   B     MCS22   26      55    97.6      95.2      88.5       5    54 65         3006   3388     
+HT20  LGI  3  A      MCS23   27      49   104.9      97.6      83.5       5     1 1         16986   19599  
+
+TIME DIFF IS 4
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]         
+HT20  LGI  3  A      MCS21   25      62    75.6      75.6      93.3       6    42 55          248   275      
+HT20  LGI  3    C    MCS22   26      55    80.5      73.2      81.4       6     0 0          4154   4811     
+HT20  LGI  3   B     MCS23   27      49    85.4      75.6      80.1       6     0 0         15569   18471  
+
+
+TIME DIFF IS 4
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]    
+HT20  LGI  3         MCS21   25      62    51.2      41.5      70.5       6     0 0           627   726      
+HT20  LGI  3  A      MCS22   26      55    53.7      53.7      90.8       6    24 29         2792   3301     
+HT20  LGI  3   B     MCS23   27      49    56.1      53.7      86.7       6     0 0         14294   16511  
+
+
+TIME DIFF IS 4
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]          
+HT20  LGI  3   B     MCS21   25      62    90.3      90.3      98.1       5     0 0            96   106      
+HT20  LGI  3  A      MCS22   26      55    97.6      95.2      87.0       5    53 71         3351   3937     
+HT20  LGI  3    C    MCS23   27      49   104.9      87.8      76.6       5     2 3         16135   19040  
+
+TIME DIFF IS 4
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]       
+HT20  LGI  3    C    MCS21   25      62    90.3      90.3      95.3       5     0 0           281   361      
+HT20  LGI  3   B     MCS22   26      55    97.6      97.6      91.4       5     0 0          4866   5672     
+HT20  LGI  3  A      MCS23   27      49   104.9     104.9      89.7       5    49 53        16501   19758  
+
+TIME DIFF IS 4
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]           
+HT20  LGI  3    C    MCS21   25      62   100.0     100.0      96.2       5     0 0           217   257      
+HT20  LGI  3  A      MCS22   26      55   109.8     109.8      92.1       5   119 121        4635   5394     
+HT20  LGI  3   B     MCS23   27      49   117.1     104.9      80.7       5     2 2         17342   20163
+
+
+TIME DIFF IS 5
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]          
+HT20  LGI  3         MCS21   25      62    90.3      63.4      63.9       5     0 0           370   394      
+HT20  LGI  3   B     MCS22   26      55    97.6      95.2      88.3       5     0 0          6139   7203     
+HT20  LGI  3  A      MCS23   27      49   104.9     100.0      85.9       5   119 134       14800   17989 
+
+TIME DIFF IS 5
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]        
+HT20  LGI  3    C    MCS21   25      62   100.0     100.0      97.9       5     0 0            74   80       
+HT20  LGI  3   B     MCS22   26      55   109.8     104.9      86.8       5     1 1          5637   6439     
+HT20  LGI  3  A      MCS23   27      49   117.1     112.3      87.1       5    81 100       15916   18680  
+
+TIME DIFF IS 6
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]         
+HT20  LGI  3    C    MCS21   25      62    75.6      75.6      97.7       5     0 0            96   114      
+HT20  LGI  3   B     MCS22   26      55    80.5      80.5      96.2       6     0 0          5448   6235     
+HT20  LGI  3  A      MCS23   27      49    85.4      83.0      86.7       6    28 36        12617   15215   
+
+TIME DIFF IS 6
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]        
+HT20  LGI  3    C    MCS21   25      62    90.3      90.3      91.6       6     0 0           791   907      
+HT20  LGI  3   B     MCS22   26      55    97.6      97.6      90.0       5     0 0          4786   5554     
+HT20  LGI  3  A      MCS23   27      49   104.9     100.0      86.9       5    69 77        10009   11932 
+
+
+TIME DIFF IS 8
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]           
+HT20  LGI  3    C    MCS21   25      62    75.6      75.6      98.9       5     0 0           543   622      
+HT20  LGI  3   B     MCS22   26      55    80.5      80.5      90.5       6    51 54         3507   4176     
+HT20  LGI  3  A      MCS23   27      49    85.4      83.0      86.6       6     1 1         11874   14029  
+
+TIME DIFF IS 9
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]       
+HT20  LGI  3    C    MCS21   25      62   100.0     100.0      98.0       5     0 0           503   536      
+HT20  LGI  3   B     MCS22   26      55   109.8     104.9      87.7       5     1 1          2198   2573     
+HT20  LGI  3  A      MCS23   27      49   117.1     117.1      89.8       5    91 101       11540   13621 
+
+ *******************************************************************************************************************************************************************************************
+// Dikos mas algorithmos sampling
+
+TIME DIFF IS 2
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]    
+HT20  LGI  3    C    MCS21   25      62    75.6      68.3      79.3       5     0 0          8093   9465     
+HT20  LGI  3  A      MCS22   26      55    80.5      80.5      88.6       6    24 26        14854   17335    
+HT20  LGI  3         MCS23   27      49    85.4      31.7      32.8       0     0 0             2   4    
+
+TIME DIFF IS 2
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]   
+HT20  LGI  3     D   MCS21   25      62   107.4      87.8      74.8       5     0 0          1200   1446     
+HT20  LGI  3   B     MCS22   26      55   117.1      95.2      73.0       5     0 0           888   1104     
+HT20  LGI  3  A      MCS23   27      49   126.9     122.0      87.6       5    98 107       17924   21338    
+
+
+TIME DIFF IS 2
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]   
+HT20  LGI  3   B     MCS21   25      62   100.0     100.0      92.5       5     0 0          4113   4685     
+HT20  LGI  3  A      MCS22   26      55   109.8     102.5      84.1       5   113 137       17952   20962    
+HT20  LGI  3         MCS23   27      49   117.1       0.0       0.0       0     0 0             0   0        
+
+
+
+TIME DIFF IS 2
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]      
+HT20  LGI  3   B     MCS21   25      62    51.2      51.2      95.1       6     0 0          1668   1861     
+HT20  LGI  3  A      MCS22   26      55    53.7      53.7      92.4       6    50 52        14212   16384    
+HT20  LGI  3    C    MCS23   27      49    56.1      48.8      77.3       5     0 0          4098   4843  
+
+
+TIME DIFF IS 3
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]     
+HT20  LGI  3   B     MCS21   25      62    75.6      70.8      82.8       6     0 0          1637   1929     
+HT20  LGI  3     D   MCS22   26      55    80.5      68.3      74.7       5     0 0          4751   5519     
+HT20  LGI  3  A      MCS23   27      49    85.4      80.5      83.4       6    67 89        15031   17852  
+
+TIME DIFF IS 4
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]    
+HT20  LGI  3         MCS21   25      62    51.2      46.3      79.3       5     0 0           653   791      
+HT20  LGI  3  A      MCS22   26      55    53.7      53.7      90.7       6    14 14         5397   6379     
+HT20  LGI  3         MCS23   27      49    56.1      39.0      62.8       6     0 0          9939   11906    
+
+TIME DIFF IS 4
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]       
+HT20  LGI  3   B     MCS21   25      62    90.3      90.3      89.1       5     0 0          3512   4169     
+HT20  LGI  3  A      MCS22   26      55    97.6      97.6      89.5       5   102 114        9941   11374    
+HT20  LGI  3         MCS23   27      49   104.9      68.3      58.4       5     0 0          6352   7398  
+
+TIME DIFF IS 4
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]          
+HT20  LGI  3         MCS21   25      62    51.2      46.3      81.8       5     0 0           456   519      
+HT20  LGI  3         MCS22   26      55    53.7      43.9      73.6       6     0 0          3463   4050     
+HT20  LGI  3  A      MCS23   27      49    56.1      53.7      87.9       6    11 15        10359   12103  
+
+
+TIME DIFF IS 5
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]         
+HT20  LGI  3         MCS21   25      62   100.0       0.0       0.0       0     0 0             0   0        
+HT20  LGI  3  A      MCS22   26      55   109.8     104.9      86.5       5    88 107       19354   22320    
+HT20  LGI  3         MCS23   27      49   117.1       0.0       0.0       0     0 0             0   0        
+
+
+TIME DIFF IS 7
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]  
+HT20  LGI  3    C    MCS21   25      62   100.0      90.3      80.9       6     0 0           841   928      
+HT20  LGI  3   B     MCS22   26      55   109.8     102.5      85.7       5   104 106        8512   9837     
+HT20  LGI  3  A      MCS23   27      49   117.1     107.4      81.9       5    16 16        11429   13382    
+
+
+TIME DIFF IS 8
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]      
+HT20  LGI  3   B     MCS21   25      62    90.3      85.4      83.6       5     0 0          1525   1690     
+HT20  LGI  3     D   MCS22   26      55    97.6      80.5      73.2       5     0 0         10784   12424    
+HT20  LGI  3  A      MCS23   27      49   104.9     102.5      88.3       5    87 95         3141   3748 
+
+
+
+
+TIME DIFF IS 10
+
+              best   ____________rate__________    ____statistics___    _____last____    ______sum-of________
+mode guard #  rate  [name   idx airtime  max_tp]  [avg(tp) avg(prob)]  [retry|suc|att]  [#success | #attempts]         
+HT20  LGI  3    C    MCS21   25      62   100.0     100.0      95.7       5     0 0          2228   2578     
+HT20  LGI  3  A      MCS22   26      55   109.8     109.8      92.9       5     0 0          5800   6723     
+HT20  LGI  3   B     MCS23   27      49   117.1     109.8      84.4       5   122 152       11234   13381  
+
+
+
