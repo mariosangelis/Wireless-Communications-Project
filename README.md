@@ -5,6 +5,6 @@
 > Our work is focused on implementing novel algorithms for Rate Adaptation based on Minstrel by modifying some of his functionalities. In this way, we could conclude on what the
 Minstrel’s vulnerabilities are and whether we could achieve an optimization. Our goal is to find out how fast our algorithms converge to an MCS rate in comparatively to Minstrel in difficult circumstances.
 
-Created by:
-Angelis Marios: https://www.linkedin.com/in/marios-angelis-233a46143/
-Xatzistefanidis Hlias: https://www.linkedin.com/in/ilias-chatzistefanidis/
+Created by:<br />
+Angelis Marios: https://www.linkedin.com/in/marios-angelis-233a46143/<br />
+Xatzistefanidis Hlias: https://www.linkedin.com/in/ilias-chatzistefanidis/<br />
